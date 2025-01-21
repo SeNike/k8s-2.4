@@ -5,12 +5,16 @@
 
 1. Создайте и подпишите SSL-сертификат для подключения к кластеру.
 2. Настройте конфигурационный файл kubectl для подключения.
+
+![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.4/2.4.1.png)
+   
 3. Создайте роли и все необходимые настройки для пользователя.
+
+![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.4/2.4.2.png)
+
 4. Предусмотрите права пользователя. Пользователь может просматривать логи подов и их конфигурацию (`kubectl logs pod <pod_id>`, `kubectl describe pod <pod_id>`).
 5. Предоставьте манифесты и скриншоты и/или вывод необходимых команд.
 
-![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.4/2.4.1.png)
-![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.4/2.4.2.png)
 ![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.4/2.4.3.png)
 
 ------
